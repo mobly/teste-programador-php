@@ -1,4 +1,4 @@
-# Teste - Developer PHP Mobly
+# Teste - Programador PHP Mobly
 
 O teste consiste no desenvolvimento de um catálogo de usuários.
 
@@ -14,10 +14,16 @@ Para isso, você deverá criar uma aplicação que:
 
 A aplicação pode ser feita utilizando qualquer framework atual.
 
-A fonte dos dados serão:
+### Fonte dos dados - APIs
 
 **Usuários:**
 http://jsonplaceholder.typicode.com/users
 
 **Posts:**
 http://jsonplaceholder.typicode.com/posts
+
+### Entrega
+
+O código do projeto deve ser disponibilizado em um repositório no GitHub ou Bitbucket e ser enviado apenas o link do mesmo.
+
+Incluir também no repositório um arquivo README com instruções para rodar o projeto.
