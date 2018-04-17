@@ -13,6 +13,10 @@ Elaborar um carrinho de compras simples (lista de categorias / lista de produtos
 
 O código do projeto deve ser colocado no Github ou Bitbucket do candidato e deve ser enviado apenas o link público do projeto (Código php, Bibliotecas, Estrutura do banco de dados - com dados para teste ).
 
+### Muita atenção
+
+Incluir também no repositório um arquivo **README** com instruções para rodar o projeto. É muito importante que funcione.
+
 ## Extras
 
 Outras tecnologias consideradas (Para classificação apenas - a falta do uso não desqualifica o candidato) :
