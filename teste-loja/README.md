@@ -25,5 +25,5 @@ Outras tecnologias consideradas (Para classificação apenas - a falta do uso n�
 - Motores de pesquisa (Solr/Sphinx/ElasticSearch/etc); 
 - Queue (RabbitMQ / ApacheMQ / Gearman);
 - Testes Unitários ;
-- Front End : Angular / Bootstrap / React/ Vue;
+- Front End : Angular / Bootstrap / React / Vue;
 - Docker
